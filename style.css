@@ -35,7 +35,16 @@ body {
 .newsletter-form { }
 
 /* ---- Forside ---- */
-.hero { }
+.hero { 
+    background-image: ;
+}
+.hero-container {
+
+}
+
+.hero-tagline {
+    
+}
 .intro-cards { }
 .how-it-works { }
 .popular-produce { }
