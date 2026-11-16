@@ -36,14 +36,18 @@ body {
 
 /* ---- Forside ---- */
 .hero { 
-    background-image: ;
+    background-image: url("images/hero.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 600px;
 }
 .hero-container {
 
 }
 
 .hero-tagline {
-    
+
 }
 .intro-cards { }
 .how-it-works { }
